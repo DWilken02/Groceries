@@ -14,7 +14,6 @@
 
 This page where you can make your own virtual grocery list.
 
-## Setup/Installation
 
 ## Setup/Installation
 
